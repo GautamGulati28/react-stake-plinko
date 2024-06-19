@@ -100,5 +100,4 @@ Once both frontend and backend servers are running:
 
 ## Screenshots
 
-![Game Screenshot](![image](https://github.com/GautamGulati28/react-stake-plinko/assets/101964337/19fabd65-f41d-4deb-b6f4-c2d561ca0f1f)
-)
+![Game Screenshot](![image](240619_10h38m38s_screenshot.png)

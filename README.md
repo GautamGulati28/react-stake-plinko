@@ -100,4 +100,4 @@ Once both frontend and backend servers are running:
 
 ## Screenshots
 
-![Game Screenshot](![image](240619_10h38m38s_screenshot.png)
+(![image](240619_10h38m38s_screenshot.png)

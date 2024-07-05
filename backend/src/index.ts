@@ -4,7 +4,10 @@ import { outcomes } from "./outcomes";
 import cors from "cors";
 
 const app = express();
-app.use(cors())
+app.use(cors({
+    origin: *,
+    credentials: true,
+}))
 
 const TOTAL_DROPS = 16;
 

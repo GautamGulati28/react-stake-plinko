@@ -4,10 +4,7 @@ import { outcomes } from "./outcomes";
 import cors from "cors";
 
 const app = express();
-app.use(cors({
-    origin: *,
-    credentials: true,
-}))
+app.use(cors())
 
 const TOTAL_DROPS = 16;
 
@@ -55,8 +52,5 @@ app.post("/game", (req, res) => {
 });
 
 
-app.post("/test",(req,res) => {
-    res.send("hello world')
-});
 
 app.listen(3000)
